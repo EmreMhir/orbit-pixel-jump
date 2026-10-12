@@ -1,0 +1,42 @@
+GELİŞTİRME ÖRNEĞİ — Mağaza sürümü için geçerli bir politika değildir.
+Örnek iletişim adresi gerçek bir destek adresi değildir.
+
+Orbit Pixel Jump — Gizlilik Politikası Taslağı
+4 Ekim 2026 · Sürüm 3
+Hesap açmanız gerekmez. Skor ve oyun tercihleri cihazınızda tutulur.
+Yaşınız veya doğum tarihiniz sorulmaz. Tüm reklam isteklerinde kişiselleştirmeyi kapatan, çocuk koruması açık ayarlar uygulanır.
+
+1. Kapsam ve iletişim
+Bu politika, Orbit Pixel Jump Android oyununun sürüm 3 gizlilik akışını açıklar. Yayıncı ve gizlilik iletişimi: contact@example.com.
+Oyun üyelik, sohbet, kullanıcı içeriği paylaşımı veya geliştiriciye ait bir bulut kayıt ve analiz hizmeti içermez. Kamera, mikrofon, rehber veya hassas konum izni istemez.
+
+2. Cihazdaki kayıtlar
+En yüksek skor, ses tercihi ve okunan gizlilik metninin sürümü cihazın uygulama depolamasına kaydedilir. Bu kayıtlar geliştirici sunucusuna gönderilmez.
+Yaş aralığı veya doğum tarihi sorulmaz ve kaydedilmez. Önceki sürümdeki yaş uygunluk bayrakları, güncellenmiş gizlilik metni okunduğunda silinir. Yerel kayıtlar oyunun çalışması ve tercihlerin hatırlanması için kullanılır.
+
+3. Genel kitle ve çocukların gizliliği
+Oyun genel kitleye yöneliktir; çocuklar da oynayabilir. Yaş ayrımı yapılmadığı için bütün reklam isteklerinde Google SDK çocuk koruması ayarı ve genel izleyici (G) içerik filtresi kullanılır. Kişiselleştirilmiş reklam talep edilmez. Bu uygulama ayarı bir mağaza yaş derecelendirmesi değildir.
+Oyun içinde ad, e-posta, doğum tarihi veya ebeveyn bilgisi istenmez. Gizlilik ekranındaki okuma bildirimi ebeveyn izni veya açık rıza yerine geçmez. Ebeveynler ve yasal temsilciler gizlilik taleplerini iletişim adresine iletebilir.
+
+4. Reklam hizmetleri
+Oyun Google AdMob ve User Messaging Platform (UMP) kullanır. Yayın sürümünde reklam yükleme, UMP reklam isteğine izin verdiğinde başlar. UMP isteği, yaş bilinmediği için rıza yaşının altındaki kullanıcı korumasıyla yapılır. Reklam SDK’sı da tüm isteklerde çocuk koruması ile yapılandırılır. Geliştirme paketinde yalnızca Google’ın resmi test reklam birimleri kullanılır.
+Reklam hizmeti çalışırken Google; IP adresi ve bundan çıkarılabilen yaklaşık konum, uygulama ve reklam etkileşimleri, performans ve hata tanılama bilgileri ile kullanılabilir cihaz/uygulama tanımlayıcılarını reklam sunumu, ölçüm ve kötüye kullanımın önlenmesi için işleyebilir. Uygulama Android reklam kimliği ve AdServices izinlerini kaldırır. Kişiselleştirilmemiş reklam, hiç veri işlenmediği anlamına gelmez.
+Ana menüde banner, oyun turları arasındaki uygun geçişlerde tam ekran reklam ve kullanıcının seçtiği ödüllü devam reklamı bulunur. Reklam hazır değilse temel oyun çalışmaya devam eder. Mevcut olduğunda menüdeki reklam gizlilik tercihleri bölümünden tercihler güncellenebilir.
+Google’ın işleme amaçları, uluslararası veri işleme ve saklama uygulamaları için Google Gizlilik Politikası ve iş ortağı uygulamalarındaki veri kullanımı açıklaması geçerlidir. Hizmet sağlayıcıların sistemleri bulunduğunuz ülkenin dışında olabilir.
+
+5. Saklama, güvenlik ve silme
+Yerel oyun kayıtları uygulama verilerini temizleyene veya uygulamayı kaldırana kadar cihazda kalır. Android’de Ayarlar → Uygulamalar → Orbit Pixel Jump → Depolama → Verileri temizle yoluyla silinebilir. Bu işlem skorunuzu ve tercihlerinizi de sıfırlar. Uygulama için işletim sistemi yedeklemesi kapalıdır.
+Google tarafından işlenen verilerin saklama ve silme süreleri Google’ın politikalarına ve ilgili kullanıcı ayarlarına bağlıdır; cihazdaki oyun kayıtlarını silmek Google’daki verileri otomatik olarak silmez. Google, reklam SDK’sının ilettiği verilerde aktarım şifrelemesi kullanır.
+Destek için e-posta gönderirseniz adresiniz ve mesajınız, talebinizi yanıtlamak ve ilgili yükümlülükleri yerine getirmek için işlenir; bu bilgiler talebin amacı ve geçerli saklama yükümlülükleriyle sınırlı süre tutulur. Mesajınıza gereksiz kişisel bilgi eklemeyin.
+
+6. Tercihleriniz ve haklarınız
+Uygulanabilir mevzuat kapsamında kişisel bilgilerinizin işlenmesine ilişkin bilgi isteme, erişim, düzeltme, silme, işlemeye itiraz etme ve uygun durumlarda izni geri çekme veya yetkili makama başvurma haklarınız olabilir. KVKK kapsamındaki taleplerinizi de iletişim adresine gönderebilirsiniz.
+Geliştirici cihazınızda tutulan skora ve tercihlere uzaktan erişemez. Yerel kayıtları silmek için yukarıdaki cihaz adımlarını kullanın. Google’ın kendi işlediği veriler için Google gizlilik kontrollerini de kullanabilirsiniz.
+
+7. Bu web sayfası ve değişiklikler
+Bu politika sayfasına geliştirici tarafından reklam, analiz betiği veya form eklenmemiştir. Sayfanın barındırma ve güvenlik sağlayıcıları, sayfayı sunmak ve hizmeti korumak için IP adresi ve istek bilgileri gibi teknik verileri işleyebilir. Dış bağlantılar açıldığında ilgili sitelerin gizlilik koşulları uygulanır.
+Oyunun veri kullanımı değişirse bu metin ve güncelleme tarihi yenilenir. Önemli değişikliklerde güncellenmiş uygulama içi metin yeniden gösterilir.
+
+8. İletişim
+Gizlilik soruları, veri talepleri veya ebeveyn başvuruları için:
+contact@example.com

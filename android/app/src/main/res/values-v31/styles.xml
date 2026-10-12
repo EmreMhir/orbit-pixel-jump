@@ -1,0 +1,11 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+        <item name="android:windowBackground">@drawable/launch_background</item>
+        <item name="android:windowSplashScreenBackground">@color/orbit_icon_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/orbit_icon_foreground</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/orbit_icon_background</item>
+        <item name="android:statusBarColor">#070D20</item>
+        <item name="android:navigationBarColor">#070D20</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
